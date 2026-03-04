@@ -1,1 +1,0 @@
-# nc-property-scout
